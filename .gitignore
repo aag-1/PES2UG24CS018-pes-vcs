@@ -1,0 +1,27 @@
+# Compiled binaries
+pes
+pes_dbg
+test_objects
+test_tree
+
+# Object files
+*.o
+*.obsidian
+
+# PES repository (created during testing)
+.pes/
+
+# Test-generated files
+file1.txt
+file2.txt
+hello.txt
+bye.txt
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+
